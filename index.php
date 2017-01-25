@@ -30,8 +30,16 @@
     //include 'examples/gerarchia-di-scope.php';
 
     //http://www.html.it/pag/52866/direttive-predefinite-bind-hide-e-show/
-    include 'examples/scope-e-two-way-data-binding.php';
+    //include 'examples/scope-e-two-way-data-binding.php';
 
+    //http://www.html.it/pag/53029/ng-include/
+    //include 'examples/ng-include.php';
+
+    //http://www.html.it/pag/53101/ng-class/
+    //include 'examples/ng-class.php';
+
+    //http://www.html.it/pag/53108/ng-repeat/
+    include 'examples/ng-include.php';
   ?>
   </body>
 </html>
