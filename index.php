@@ -60,8 +60,10 @@
     //include 'examples/servizi-per-condividere-dati-e-funzionalita.php';
     
     //http://www.html.it/pag/53468/il-servizio-http-in-angularjs/
-    include 'examples/il-servizio-http-in-angularjs.php';
+    //include 'examples/il-servizio-http-in-angularjs.php';
     
+    //
+    include 'examples/';
   ?>
   </body>
 </html>
